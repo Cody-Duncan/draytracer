@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "draytracer", "source\draytracer.visualdproj", "{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug DMD|x64 = Debug DMD|x64
+		Debug DMD|x86 = Debug DMD|x86
+		Debug LDC|x64 = Debug LDC|x64
+		Debug LDC|x86 = Debug LDC|x86
+		Release DMD|x64 = Release DMD|x64
+		Release DMD|x86 = Release DMD|x86
+		Release LDC|x64 = Release LDC|x64
+		Release LDC|x86 = Release LDC|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug DMD|x64.ActiveCfg = Debug DMD|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug DMD|x64.Build.0 = Debug DMD|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug DMD|x86.ActiveCfg = Debug DMD|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug DMD|x86.Build.0 = Debug DMD|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug LDC|x64.ActiveCfg = Debug LDC|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug LDC|x64.Build.0 = Debug LDC|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug LDC|x86.ActiveCfg = Debug LDC|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Debug LDC|x86.Build.0 = Debug LDC|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release DMD|x64.ActiveCfg = Release DMD|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release DMD|x64.Build.0 = Release DMD|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release DMD|x86.ActiveCfg = Release DMD|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release DMD|x86.Build.0 = Release DMD|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release LDC|x64.ActiveCfg = Release LDC|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release LDC|x64.Build.0 = Release LDC|x64
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release LDC|x86.ActiveCfg = Release LDC|Win32
+		{73C9DDE0-1E4E-4643-BB36-8EF5FA18B5AC}.Release LDC|x86.Build.0 = Release LDC|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A736A1A9-C45D-4221-969A-9D3C011737E3}
+	EndGlobalSection
+EndGlobal
