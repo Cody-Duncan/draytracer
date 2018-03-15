@@ -9,7 +9,7 @@ MAJOR.MINOR.PATCH
 2. MINOR version when you add functionality in a backwards-compatible manner, and
 3. PATCH version when you make backwards-compatible bug fixes.
 
-Current Version: -1.0.0 - No usable work exists yet.
+Current Version: 0.0.0 - No usable work exists yet.
 
 For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
